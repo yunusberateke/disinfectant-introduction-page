@@ -1,5 +1,8 @@
-## Disinfectant Introduction Page
+## Disinfectant Introduction Page With VueJs + Vuetify
 Dezenfekte tanıtım sayfası
+
+# Dependencies:
+NodeJS
 
 # Screenshots: 
 ![Screenshot from 2021-01-18 14-25](https://user-images.githubusercontent.com/21203901/104910592-9421a280-599a-11eb-8362-9cf153389c8f.png)
